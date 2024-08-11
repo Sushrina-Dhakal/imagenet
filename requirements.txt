@@ -1,0 +1,12 @@
+numpy 
+pandas
+opencv-python
+scikit-learn
+tensorflow
+keras
+python-dotenv
+kaggle
+ipykernel
+zipfile36
+pillow
+matplotlib
